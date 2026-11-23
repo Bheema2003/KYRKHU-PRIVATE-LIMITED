@@ -1,0 +1,6 @@
+{
+  "name": "KYRKHU PRIVATE LIMITED — Mobile App Publishing & Software Studio",
+  "description": "Official corporate website and Google Play organization portal for KYRKHU PRIVATE LIMITED (CIN: U46305ML2023PTC014072), incorporated in Meghalaya, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
